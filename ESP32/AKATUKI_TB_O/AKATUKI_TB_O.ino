@@ -13,8 +13,8 @@
 #define r_pin 26
 #define switch1 32
 #define switch2 33
-#define SERVICE_UUID        "12345678-1234-1234-1234-123456789abc" // サービスUUID
-#define CHARACTERISTIC_UUID "abcdefab-cdef-abcd-efab-cdef12345678" // キャラクタリスティックUUID
+#define SERVICE_UUID        "一つ目のUUID" // サービスUUID
+#define CHARACTERISTIC_UUID "二つ目のUUID" // キャラクタリスティックUUID
 
 //舵角
 volatile bool switch1Flag = false;

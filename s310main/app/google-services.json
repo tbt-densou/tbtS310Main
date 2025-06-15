@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195550339502",
+    "firebase_url": "firebaseプロジェクトのURLが入ります",
+    "project_id": "functiontest-b02cc",
+    "storage_bucket": "functiontest-b02cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195550339502:android:c220d24373fc03ab85283f",
+        "android_client_info": {
+          "package_name": "com.example.s310main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195550339502-ab1t9v0fq1ken028iabrnpj4khaau3bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s310main",
+            "certificate_hash": "SHA1フィンガープリントが入ります"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsCR9Jj7dIFInL9np1ZpLtm4T8jr6Lj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -13,9 +13,9 @@
 #define HeightAddress 0x70
 #define RangeCommand 0x51
 #define LcdAddress 0x27
-#define SERVICE_UUID      "12345678-1234-1234-1234-123456789abc"  // サービスUUID
-#define CHARACTERISTIC_UUID "abcdefab-cdef-abcd-efab-cdef12345678" // キャラクタリスティックUUID
-#define PERIPHERAL_MAC "AC:15:18:E9:72:92"
+#define SERVICE_UUID      "一つ目のUUID"  // サービスUUID
+#define CHARACTERISTIC_UUID "二つ目のUUID" // キャラクタリスティックUUID
+#define PERIPHERAL_MAC "ペリフェラルのマックアドレス"
 
 #define LED_PIN 13//スマホ接続確認用(未使用)
 

@@ -51,7 +51,7 @@
         <!-- 追加: Google マップの API キー -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBz1eivF9YNg5PvE2ZMg68u7RA1ghgueKY" />
+            android:value="AIPキーが入ります" />
 
     </application>
 
